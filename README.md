@@ -37,11 +37,14 @@ It highlights each district’s unique product, its category, and the distributi
 | `images/` | Dashboard preview images |
 
 ---
+### 🚀 Click here to view Live Dashboard
+- URL: [https://app.powerbi.com/links/asQMdAoAD6?ctid=a57f7d92-038e-4d4c-8265-7cd2beb33b34&pbi_source=linkShare]
+
 
 ### 📜 License
 This project is open-sourced under the **MIT License** — feel free to use or modify it with attribution.
 
----
+--- 
 
 ### 👨‍💻 Author
 **Bhupendra Pratap Singh**  
